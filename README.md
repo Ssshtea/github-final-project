@@ -1,13 +1,15 @@
-# Final Project: Introduction to Git and GitHub
-
-This repository is my final project for the Introduction to Git and GitHub course.
+# GitHub Final Project
 
 ## Project Name
-Git and GitHub Final Project
+Simple Interest Calculator
 
 ## About
-This project demonstrates:
-- Creating and managing a GitHub repository
-- Adding a license, code of conduct, and contributing guidelines
-- Writing a Bash script (simple interest calculator)
-- Using Git branches, merges, forks, and pull requests
+This project contains a Bash script (`simple-interest.sh`) that works as a simple interest calculator. It takes the principal amount, the rate of interest, and the time period as user input, and computes the simple interest using the formula:
+
+Simple Interest = (Principal x Rate x Time) / 100
+
+## Repository contents
+- `LICENSE` (Apache 2.0)
+- `CODE_OF_CONDUCT.md`
+- `CONTRIBUTING.md`
+- `simple-interest.sh`
